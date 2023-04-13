@@ -1,0 +1,23 @@
+.courses {
+    margin: 50px;
+}
+
+.courses h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.courses li {
+    margin-bottom: 20px;
+    list-style-type: none;
+}
+
+.courses a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.65);
+}
+
+.courses a:hover {
+    color: skyblue;
+}
